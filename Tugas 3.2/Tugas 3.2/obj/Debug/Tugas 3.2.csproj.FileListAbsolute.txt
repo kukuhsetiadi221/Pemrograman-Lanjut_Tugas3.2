@@ -1,0 +1,11 @@
+D:\Kuli ah\sem 3\Pemrograman Lanjut\praktikum-week-3\Tugas 3.2\Tugas 3.2\bin\Debug\Tugas 3.2.exe.config
+D:\Kuli ah\sem 3\Pemrograman Lanjut\praktikum-week-3\Tugas 3.2\Tugas 3.2\bin\Debug\Tugas 3.2.exe
+D:\Kuli ah\sem 3\Pemrograman Lanjut\praktikum-week-3\Tugas 3.2\Tugas 3.2\bin\Debug\Tugas 3.2.pdb
+D:\Kuli ah\sem 3\Pemrograman Lanjut\praktikum-week-3\Tugas 3.2\Tugas 3.2\obj\Debug\Tugas 3.2.csproj.AssemblyReference.cache
+D:\Kuli ah\sem 3\Pemrograman Lanjut\praktikum-week-3\Tugas 3.2\Tugas 3.2\obj\Debug\Tugas 3.2.csproj.SuggestedBindingRedirects.cache
+D:\Kuli ah\sem 3\Pemrograman Lanjut\praktikum-week-3\Tugas 3.2\Tugas 3.2\obj\Debug\Tugas_3._2.frmTugasTiga3.resources
+D:\Kuli ah\sem 3\Pemrograman Lanjut\praktikum-week-3\Tugas 3.2\Tugas 3.2\obj\Debug\Tugas_3._2.Properties.Resources.resources
+D:\Kuli ah\sem 3\Pemrograman Lanjut\praktikum-week-3\Tugas 3.2\Tugas 3.2\obj\Debug\Tugas 3.2.csproj.GenerateResource.cache
+D:\Kuli ah\sem 3\Pemrograman Lanjut\praktikum-week-3\Tugas 3.2\Tugas 3.2\obj\Debug\Tugas 3.2.csproj.CoreCompileInputs.cache
+D:\Kuli ah\sem 3\Pemrograman Lanjut\praktikum-week-3\Tugas 3.2\Tugas 3.2\obj\Debug\Tugas 3.2.exe
+D:\Kuli ah\sem 3\Pemrograman Lanjut\praktikum-week-3\Tugas 3.2\Tugas 3.2\obj\Debug\Tugas 3.2.pdb
